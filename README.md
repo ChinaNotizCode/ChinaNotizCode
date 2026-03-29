@@ -5,6 +5,7 @@ developing tools and apps to learn Chinese.
 Published Projects:
 
 - ChinaDataNotebook: Streamlit application to visualize data on China (AI, Economy, Trade)
+- Hanzivision: An interactive fun vibe code project: web application for learning Chinese characters (Hanzi) through hand gesture recognition and stroke-by-stroke visualization.
 
 Contact: chinadatanotebook@gmail.com
 
