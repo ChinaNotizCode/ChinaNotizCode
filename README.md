@@ -1,9 +1,10 @@
 👋 Hi, I’m @ChinaNotizCode
 
-The mission of Data Notebooks is to deliver data-driven and comprehensive insights into China’s domestic policies, economy, foreign relations, and technological advancements, aiming to inform and engage global audiences. 
+developing tools and apps to learn Chinese.
 
-Published analysis is based on in-depth research, drawing from a diverse range of data sources—including those directly from China and international perspectives—to ensure accurate, nuanced, and balanced insights for interested readers.
-China Date Notebooks
+Published Projects:
+
+- ChinaDataNotebook: Streamlit application to visualize data on China (AI, Economy, Trade)
 
 Contact: chinadatanotebook@gmail.com
 
